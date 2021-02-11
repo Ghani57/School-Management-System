@@ -1,0 +1,93 @@
+a:hover{
+	text-decoration: none;
+}
+.section{
+	padding-top: 60px;
+	padding-bottom: 60px;
+}
+.section h2.section-head{
+	color: green;
+	text-align: center;
+	margin-bottom: 50px;
+}
+.section h2.section-head:after{
+	background-color: #728944;
+	content: "";
+	display: block;
+	width: 100px;
+	margin: 10px auto;
+	height: 4px;
+}
+#header{
+	color: purple;
+}
+
+.service-box{
+	text-align: center;
+	color: red;
+}
+h3{
+	text-align: center;
+	padding-top: 10px;
+}
+p{
+	color: #828545;
+}
+#testimonal{
+	background-image: url(Images/screen.JFIF);
+	background-size: cover;
+}
+a.readmore{
+	font-size: 14px;
+	color: purple;
+}
+#firstfooter{
+	background-color: #2e2c35;
+	color: white;
+	padding: 20px 0;
+}
+.footer-widget h4:after{
+	content: "";
+	background: white;
+	display: block;
+	width: 80px;
+	height: 3px;
+	margin: 7px;
+
+}
+.footer-widget a{
+	color: white;
+}
+.skills{
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+#footer{
+	background: pink;
+	text-align: center;
+	color: green;
+}
+#main{
+	background-color: #26267722;
+	width: auto;
+	height: 400px;
+
+
+}
+.service-box i.fa{
+	color: red;
+	font-size: 100px;
+}
+.service-box i.fa:hover
+{
+color: green;
+}
+a{
+	color: purple;
+	text-decoration: none;
+}
+a:hover{
+	color: green;
+	font-size: 80px;
+}
